@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>edit_circle.png</file>
+    <file>edit_polygon.png</file>
+    <file>edit_rectangle.png</file>
+    <file>select.png</file>
+    <file>delete.png</file>
+    <file>edit.png</file>
+    <file>measure_lines.png</file>
+    <file>measure_polygon.png</file>
+    <file>qgis.ico</file>
+  </qresource>
+</RCC>
