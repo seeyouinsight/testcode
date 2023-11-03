@@ -88,6 +88,8 @@
    <addaction name="actionPolygon"/>
    <addaction name="actionRectangle"/>
    <addaction name="actionCircle"/>
+   <addaction name="actionML"/>
+   <addaction name="actionMA"/>
   </widget>
   <action name="actionOpenShp">
    <property name="text">
